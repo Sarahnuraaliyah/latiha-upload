@@ -1,0 +1,200 @@
+<?xml version="1.0" ?><svg height="297.000000mm" version="1.0" viewBox="0 0 794 1123" width="210.000000mm" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Helvetica" font-size="12pt" stroke-linecap="round">
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="52" x="77.00" y="99.25">alcohol</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="151.00" y="98.25">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="160.04" x2="186.52" y1="92.40" y2="92.31"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="24" x="191.00" y="99.25">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="66" x="64.00" y="141.25">aldehyde</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="180.69" x2="180.88" y1="152.44" y2="125.96"/>
+      <line x1="184.69" x2="184.88" y1="152.46" y2="125.99"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="192.06" x2="216.28" y1="167.84" y2="178.55"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="151.00" x2="173.93" y1="181.00" y2="167.76"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="179.00" y="123.25">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="180.00" y="167.25">C</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="146.00" y="196.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="24" x="205.00" y="196.25">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="48" x="68.00" y="266.25">alkene</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="187.67" x2="164.16" y1="273.91" y2="261.73"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="167.34" x2="189.77" y1="306.64" y2="292.57"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="243.75" x2="268.34" y1="297.42" y2="307.24"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="240.18" x2="263.16" y1="273.93" y2="260.77"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="201.03" x2="227.51" y1="280.40" y2="280.31"/>
+      <line x1="201.05" x2="227.52" y1="284.40" y2="284.31"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="150.00" y="312.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="276.00" y="314.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="144.00" y="260.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="270.00" y="261.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="188.00" y="289.25">C</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="232.00" y="288.25">C</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="47" x="63.00" y="449.25">alkyne</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="281.00" y="451.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="154.00" y="450.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="240.00" y="450.25">C</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="192.00" y="450.25">C</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="163.23" x2="189.70" y1="444.38" y2="444.38"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="251.23" x2="277.70" y1="445.38" y2="445.38"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="44" x="60.00" y="526.25">amide</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="128.00" y="590.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="251.00" y="605.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="216.00" y="575.25">N</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="254.00" y="547.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="175.00" y="506.25">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="176.00" y="557.25">C</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="248.09" x2="225.73" y1="546.73" y2="560.91"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="190.34" x2="211.94" y1="551.47" y2="566.78"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="248.56" x2="228.24" y1="590.07" y2="573.08"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="168.57" x2="147.10" y1="567.06" y2="582.55"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="180.98" x2="181.26" y1="509.71" y2="536.19"/>
+      <line x1="176.98" x2="177.26" y1="509.75" y2="536.23"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="229.00" y="662.27">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="183.00" y="680.24">N</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="134.00" y="680.25">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="221.59" x2="199.24" y1="658.72" y2="672.91"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="150.41" x2="176.86" y1="673.13" y2="673.13"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="219.05" x2="198.74" y1="699.07" y2="682.09"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="230.00" y="705.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="44" x="73.00" y="664.25">amine</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="530.15" x2="530.15" y1="83.00" y2="109.44"/>
+      <line x1="536.15" x2="536.15" y1="86.30" y2="106.13"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="576.00" x2="576.00" y1="83.00" y2="109.44"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="576.00" x2="553.07" y1="109.44" y2="122.69"/>
+      <line x1="570.13" x2="552.94" y1="105.90" y2="115.83"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="553.07" x2="576.00" y1="69.75" y2="83.00"/>
+      <line x1="552.94" x2="570.13" y1="76.61" y2="86.54"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="530.15" x2="553.07" y1="109.44" y2="122.69"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="530.15" x2="553.07" y1="83.00" y2="69.75"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="63" x="452.00" y="101.25">Aromatic</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="511.20" x2="511.38" y1="175.92" y2="149.44"/>
+      <line x1="515.19" x2="515.38" y1="175.95" y2="149.47"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="522.58" x2="546.78" y1="191.33" y2="202.03"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="481.50" x2="504.42" y1="204.49" y2="191.25"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="511.00" y="190.75">C</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="477.00" y="219.77">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="24" x="536.00" y="219.77">OH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="510.00" y="140.76">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="110" x="342.00" y="192.25">Carboxylic acid</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="492.21" x2="492.40" y1="338.91" y2="312.43"/>
+      <line x1="496.21" x2="496.40" y1="338.94" y2="312.46"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="501.59" x2="525.80" y1="357.32" y2="368.02"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="460.51" x2="483.43" y1="370.48" y2="357.24"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="490.00" y="356.74">C</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="456.00" y="385.76">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="489.00" y="306.78">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="533.00" y="382.29">O</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="553.19" x2="576.15" y1="372.93" y2="359.77"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="583.00" y="360.25">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="37" x="412.00" y="326.25">Ester</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="468.04" x2="494.52" y1="471.41" y2="471.29"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="500.00" y="475.79">O</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="541.90" x2="515.44" y1="469.84" y2="469.84"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="551.00" y="473.74">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="453.00" y="475.27">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="475.00" y="591.75">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="523.00" y="507.74">O</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="524.00" y="561.77">C</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="540.84" x2="562.43" y1="564.99" y2="580.27"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="516.05" x2="494.60" y1="568.57" y2="584.04"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="561.00" y="595.75">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="207.00" x2="233.48" y1="444.00" y2="444.00"/>
+      <line x1="210.31" x2="230.17" y1="439.50" y2="439.50"/>
+      <line x1="210.31" x2="230.17" y1="448.50" y2="448.50"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="461.00" y="664.76">R</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="514.00" y="664.76">C</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="474.22" x2="500.69" y1="657.87" y2="657.87"/>
+    </g>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="536.02" x2="562.49" y1="659.49" y2="659.49"/>
+      <line x1="539.33" x2="559.18" y1="654.99" y2="654.99"/>
+      <line x1="539.33" x2="559.18" y1="663.99" y2="663.99"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="568.00" y="667.74">N</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="12" x="491.00" y="718.26">R</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="512.04" x2="538.52" y1="713.41" y2="713.29"/>
+    </g>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="23" x="546.00" y="721.25">SH</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="38" x="394.00" y="473.25">Ether</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="51" x="398.00" y="539.25">Ketone</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="42" x="389.00" y="662.25">Nitrite</text>
+    <text fill="#000000" font-family="helvetica" font-size="12pt" textLength="36" x="412.00" y="723.25">Thiol</text>
+    <g stroke="#000000" stroke-width="1.0">
+      <line x1="530.00" x2="530.00" y1="519.00" y2="545.48"/>
+      <line x1="526.00" x2="526.00" y1="519.00" y2="545.48"/>
+    </g>
+  </g>
+</svg>
